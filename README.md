@@ -72,6 +72,16 @@ Jika akhir > 40: Huruf diisi "D".
 # flowchart
 ![foto](https://github.com/aprilia55/flowchart-new/blob/6fb2ec2e78af4819f6b28ea0b66f85df55b8cbea/Algorithm%20flowchart%20example%20(1).png)
 # hasil kode program
+![foto](https://github.com/aprilia55/flowchart-new/blob/a56d53a40545a3b2c2dd1a45acc963f9e30f29de/Rapot%20py..png)
+
+## pengunaan kondisi `OR`
+
+```python
+if a + b == c or b + c == a or c + a == b:
+```
+Pada baris ini, program memeriksa beberapa kondisi menggunakan operator logika `or`.
+Operator `or` digunakan untuk menggabungkan beberapa kondisi. Jika salah satu dari kondisi yang digabungkan dengan `or` adalah `True`, maka seluruh pernyataan akan dianggap `True`.
+
 
 
 
