@@ -41,6 +41,7 @@ else:
 jika kurang dari 3.000.000. maka akan mencetak "tidak perlu ikutan asuransi"
 
 'if punya_rumah` kalau true akan mencetak "wajib bayar pajak rumah"
+![foto](https://github.com/aprilia55/flowchart-new/blob/f4f57a5d11e5f6149ec3b72f73f85adff7cd8701/Algorithm%20flowchart%20example.png)
 
 
 
