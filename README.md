@@ -42,6 +42,34 @@ jika kurang dari 3.000.000. maka akan mencetak "tidak perlu ikutan asuransi"
 
 'if punya_rumah` kalau true akan mencetak "wajib bayar pajak rumah"
 ![foto](https://github.com/aprilia55/flowchart-new/blob/f4f57a5d11e5f6149ec3b72f73f85adff7cd8701/Algorithm%20flowchart%20example.png)
+# Hasil kode program
+![foto](https://github.com/aprilia55/flowchart-new/blob/5072a635cf61e26e1f786ceb00f85800e3d01c2e/gaji%20py..png)
+
+## pengunaan `if`,`else` dan `elif` untuk nilai 
+```python
+if akhir > 80:
+    huruf = "A"
+elif akhir > 70:
+    huruf = "B"
+elif akhir > 50:
+    huruf = "C"
+elif akhir > 40:
+    huruf = "D"
+else:
+    huruf = "E"
+```
+`if`: Mengecek apakah nilai akhir lebih dari 80.
+
+Jika True, variabel huruf diisi dengan "A", dan program tidak memeriksa kondisi lainnya (blok selesai di sini).
+
+`elif`: (else if) Memeriksa kondisi tambahan jika kondisi pertama (nilai akhir > 80) False.
+
+Jika akhir > 70: Huruf diisi "B".
+Jika akhir > 50: Huruf diisi "C".
+Jika akhir > 40: Huruf diisi "D".
+
+`else`: Menangani semua kondisi lainnya (yaitu jika nilai akhir ≤ 40). Dalam kasus ini, huruf diisi dengan "E".
+# flowchart
 
 
 
