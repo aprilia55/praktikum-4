@@ -84,7 +84,7 @@ Operator `or` digunakan untuk menggabungkan beberapa kondisi. Jika salah satu da
 # flowchart 
 ![foto](https://github.com/aprilia55/flowchart-new/blob/a56d53a40545a3b2c2dd1a45acc963f9e30f29de/Algorithm%20flowchart%20bilangan%20input.png)
 # hasil kode program 
-![foto]()
+![foto](https://github.com/aprilia55/flowchart-new/blob/e2a3b7a37bb96a02d6617a12df8f391e4db5688e/Bilangan%20input.png)
 
 
 
