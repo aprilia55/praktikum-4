@@ -39,3 +39,8 @@ else:
 
 ```
 jika kurang dari 3.000.000. maka akan mencetak "tidak perlu ikutan asuransi"
+
+'if punya_rumah` kalau true akan mencetak "wajib bayar pajak rumah"
+
+
+
