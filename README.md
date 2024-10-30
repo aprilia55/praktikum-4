@@ -81,6 +81,10 @@ if a + b == c or b + c == a or c + a == b:
 ```
 Pada baris ini, program memeriksa beberapa kondisi menggunakan operator logika `or`.
 Operator `or` digunakan untuk menggabungkan beberapa kondisi. Jika salah satu dari kondisi yang digabungkan dengan `or` adalah `True`, maka seluruh pernyataan akan dianggap `True`.
+# flowchart 
+![foto](https://github.com/aprilia55/flowchart-new/blob/a56d53a40545a3b2c2dd1a45acc963f9e30f29de/Algorithm%20flowchart%20bilangan%20input.png)
+# hasil kode program 
+![foto]()
 
 
 
