@@ -70,6 +70,9 @@ Jika akhir > 40: Huruf diisi "D".
 
 `else`: Menangani semua kondisi lainnya (yaitu jika nilai akhir ≤ 40). Dalam kasus ini, huruf diisi dengan "E".
 # flowchart
+![foto](https://github.com/aprilia55/flowchart-new/blob/6fb2ec2e78af4819f6b28ea0b66f85df55b8cbea/Algorithm%20flowchart%20example%20(1).png)
+# hasil kode program
+
 
 
 
