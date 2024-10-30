@@ -212,7 +212,7 @@ if total_harga is not None:
 Jika `total_harga` tidak bernilai `None`, program mencetak total harga yang harus dibayar dengan format dua desimal.
 
 # flowchart
-
+![foto](https://github.com/aprilia55/flowchart-new/blob/1d9077f168127cfe3c24faba1e56993e15d52815/Blank%20board.png)
 # hasil program 
 ![foto](https://github.com/aprilia55/flowchart-new/blob/cf9c4f49027ba5d9bfddafcf7e94f3f38d5392f1/Tiket%20bioskop%20py..png)
 
